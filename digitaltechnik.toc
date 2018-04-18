@@ -1,0 +1,35 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}
+\contentsline {section}{\numberline {1.1}Firma Weinig AG}{1}
+\contentsline {section}{\numberline {1.2}Was ist Digitaltechnik im Allgemeinen}{1}
+\contentsline {chapter}{\numberline {2}Digitaltechnik}{2}
+\contentsline {section}{\numberline {2.1}Zahlensysteme}{3}
+\contentsline {subsection}{\numberline {2.1.1}Erkl\IeC {\"a}rung}{3}
+\contentsline {subsection}{\numberline {2.1.2}Duales Zahlensystem}{3}
+\contentsline {section}{\numberline {2.2}Aussagenlogik/Schaltalgebra}{3}
+\contentsline {subsection}{\numberline {2.2.1}Erkl\IeC {\"a}rung}{3}
+\contentsline {subsection}{\numberline {2.2.2}Wahrheitstabelle}{3}
+\contentsline {subsection}{\numberline {2.2.3}Konjunktive Normalform}{3}
+\contentsline {subsection}{\numberline {2.2.4}Karnaugh-Veitech-Diagramm}{3}
+\contentsline {section}{\numberline {2.3}Logische Verkn\IeC {\"u}pfungen}{3}
+\contentsline {subsection}{\numberline {2.3.1}Erkl\IeC {\"a}rung}{3}
+\contentsline {subsection}{\numberline {2.3.2}AND}{3}
+\contentsline {subsection}{\numberline {2.3.3}OR}{3}
+\contentsline {subsection}{\numberline {2.3.4}XOR}{3}
+\contentsline {subsection}{\numberline {2.3.5}NOT}{3}
+\contentsline {subsection}{\numberline {2.3.6}NAND}{3}
+\contentsline {subsection}{\numberline {2.3.7}NOR}{3}
+\contentsline {subsection}{\numberline {2.3.8}Vergleichsfunktionen}{3}
+\contentsline {section}{\numberline {2.4}Speicherelemente}{3}
+\contentsline {subsection}{\numberline {2.4.1}Erkl\IeC {\"a}rung}{3}
+\contentsline {subsection}{\numberline {2.4.2}SR-Element}{3}
+\contentsline {subsection}{\numberline {2.4.3}RS-Element}{3}
+\contentsline {chapter}{\numberline {3}SPS als zentrales Element in der Digitaltechnik}{4}
+\contentsline {subsection}{\numberline {3.0.1}Erkl\IeC {\"a}rung}{4}
+\contentsline {subsection}{\numberline {3.0.2}SPS-Adressierung}{4}
+\contentsline {subsection}{\numberline {3.0.3}Datentypen}{4}
+\contentsline {subsection}{\numberline {3.0.4}Parametertypen}{4}
+\contentsline {subsection}{\numberline {3.0.5}Beispielprogramm in SPS}{4}
+\contentsline {subsubsection}{\nonumberline Netzwerkstruktur erkl\IeC {\"a}ren}{4}
+\contentsline {subsubsection}{\nonumberline Erkl\IeC {\"a}rung des Ablaufes}{4}
+\contentsline {subsubsection}{\nonumberline Umsetzung in einer SPS}{4}
